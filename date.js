@@ -7,3 +7,4 @@ function dayCount (date1, date2) {
 }
 
 console.log(dayCount("May 15, 2015", "06/3/22"))
+// Its been 2576 days! that makes about 7 years!
